@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"Dakzilla\\": "src/"}
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^3.3"
+  }
+}
