@@ -1,5 +1,7 @@
 # PHP tree structure
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/387e9641289840ffa1e9/maintainability)](https://codeclimate.com/github/dakzilla/php-tree-structure/maintainability)
+
 This is just a small experiment that I did to play around with tree structures and nodes in PHP.
 
 ## Examples
